@@ -4,14 +4,10 @@ A Demo project of "Bhagavat Gita" using Android Jetpack compose UI, MVVM archite
 ScreenShots
 
 Splash screen
-
-img[src*=Screenshot_20220821_163153.png] {
-width:150px;
-height:100px;
-}
+<img alt="img.png" height="400" src="Screenshot_20220821_163153.png" width="200"/>
 
 Chapters
-![img.png](Screenshot_20220821_163424.png)
+<img alt="img.png" height="400" src="Screenshot_20220821_163424.png" width="200"/>
 
 Verses
-![img.png](Screenshot_20220821_163522.png)
+<img alt="img.png" height="400" src="Screenshot_20220821_163522.png" width="200"/>
